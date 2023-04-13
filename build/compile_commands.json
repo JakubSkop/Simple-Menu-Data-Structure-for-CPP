@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Development/C++/LearningArea/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/LearningArea.dir/includes_CXX.rsp -g -o CMakeFiles\\LearningArea.dir\\src\\Menu.cpp.obj -c D:\\Development\\C++\\LearningArea\\src\\Menu.cpp",
+  "file": "D:/Development/C++/LearningArea/src/Menu.cpp"
+},
+{
+  "directory": "D:/Development/C++/LearningArea/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/LearningArea.dir/includes_CXX.rsp -g -o CMakeFiles\\LearningArea.dir\\main.cpp.obj -c D:\\Development\\C++\\LearningArea\\main.cpp",
+  "file": "D:/Development/C++/LearningArea/main.cpp"
+}
+]
