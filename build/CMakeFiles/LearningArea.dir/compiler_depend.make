@@ -6,7 +6,6 @@ CMakeFiles/LearningArea.dir/main.cpp.obj: D:/Development/C++/LearningArea/main.c
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/12.2.0/ostream \
   C:/msys64/mingw64/include/c++/12.2.0/ios \
   C:/msys64/mingw64/include/c++/12.2.0/iosfwd \
@@ -105,9 +104,6 @@ CMakeFiles/LearningArea.dir/main.cpp.obj: D:/Development/C++/LearningArea/main.c
   C:/msys64/mingw64/include/c++/12.2.0/ext/alloc_traits.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/alloc_traits.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/stl_construct.h \
-  C:/msys64/mingw64/include/c++/12.2.0/string_view \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/functional_hash.h \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/string_view.tcc \
   C:/msys64/mingw64/include/c++/12.2.0/ext/string_conversions.h \
   C:/msys64/mingw64/include/c++/12.2.0/cstdlib \
   C:/msys64/mingw64/include/stdlib.h \
@@ -119,6 +115,7 @@ CMakeFiles/LearningArea.dir/main.cpp.obj: D:/Development/C++/LearningArea/main.c
   C:/msys64/mingw64/include/c++/12.2.0/cstdio \
   C:/msys64/mingw64/include/c++/12.2.0/cerrno \
   C:/msys64/mingw64/include/c++/12.2.0/bits/charconv.h \
+  C:/msys64/mingw64/include/c++/12.2.0/bits/functional_hash.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/basic_string.tcc \
   C:/msys64/mingw64/include/c++/12.2.0/bits/locale_classes.tcc \
   C:/msys64/mingw64/include/c++/12.2.0/system_error \
@@ -161,10 +158,7 @@ CMakeFiles/LearningArea.dir/main.cpp.obj: D:/Development/C++/LearningArea/main.c
   C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_base.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_lockfree_defines.h \
   C:/msys64/mingw64/include/c++/12.2.0/backward/auto_ptr.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_memory_defs.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/execution_defs.h \
-  C:/msys64/mingw64/include/c++/12.2.0/optional \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/enable_special_members.h
+  C:/msys64/mingw64/include/c++/12.2.0/optional
 
 CMakeFiles/LearningArea.dir/src/Menu.cpp.obj: D:/Development/C++/LearningArea/src/Menu.cpp \
   D:/Development/C++/LearningArea/src/Menu.hpp \
@@ -173,7 +167,6 @@ CMakeFiles/LearningArea.dir/src/Menu.cpp.obj: D:/Development/C++/LearningArea/sr
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h \
   C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/functexcept.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/exception_defines.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/cpp_type_traits.h \
@@ -248,8 +241,6 @@ CMakeFiles/LearningArea.dir/src/Menu.cpp.obj: D:/Development/C++/LearningArea/sr
   C:/msys64/mingw64/include/c++/12.2.0/bits/ostream_insert.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/cxxabi_forced.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/basic_string.h \
-  C:/msys64/mingw64/include/c++/12.2.0/string_view \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/string_view.tcc \
   C:/msys64/mingw64/include/c++/12.2.0/ext/string_conversions.h \
   C:/msys64/mingw64/include/c++/12.2.0/cstdlib \
   C:/msys64/mingw64/include/stdlib.h \
@@ -303,10 +294,7 @@ CMakeFiles/LearningArea.dir/src/Menu.cpp.obj: D:/Development/C++/LearningArea/sr
   C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_base.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_lockfree_defines.h \
   C:/msys64/mingw64/include/c++/12.2.0/backward/auto_ptr.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_memory_defs.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/execution_defs.h \
   C:/msys64/mingw64/include/c++/12.2.0/optional \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/enable_special_members.h \
   C:/msys64/mingw64/include/c++/12.2.0/iostream \
   C:/msys64/mingw64/include/c++/12.2.0/ostream \
   C:/msys64/mingw64/include/c++/12.2.0/ios \
@@ -334,8 +322,7 @@ CMakeFiles/LearningArea.dir/src/Menu.cpp.obj: D:/Development/C++/LearningArea/sr
   C:/msys64/mingw64/include/c++/12.2.0/bits/stl_algo.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/algorithmfwd.h \
   C:/msys64/mingw64/include/c++/12.2.0/bits/stl_heap.h \
-  C:/msys64/mingw64/include/c++/12.2.0/bits/uniform_int_dist.h \
-  C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_algorithm_defs.h
+  C:/msys64/mingw64/include/c++/12.2.0/bits/uniform_int_dist.h
 
 
 C:/msys64/mingw64/include/_mingw_stat64.h:
@@ -352,9 +339,9 @@ C:/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32/bits/os_defines.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/postypes.h:
 
-C:/msys64/mingw64/include/c++/12.2.0/pstl/pstl_config.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/iostream:
+
+C:/msys64/mingw64/include/c++/12.2.0/iosfwd:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_base.h:
 
@@ -373,8 +360,6 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/new_allocator.h:
 C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/ios:
-
-C:/msys64/mingw64/include/c++/12.2.0/iosfwd:
 
 C:/msys64/mingw64/include/corecrt_stdio_config.h:
 
@@ -415,6 +400,8 @@ C:/msys64/mingw64/include/sec_api/wchar_s.h:
 C:/msys64/mingw64/include/c++/12.2.0/exception:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/exception.h:
+
+C:/msys64/mingw64/include/time.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/exception_ptr.h:
 
@@ -460,8 +447,6 @@ C:/msys64/mingw64/include/stdint.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/clocale:
 
-C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_memory_defs.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/cctype:
 
 C:/msys64/mingw64/include/ctype.h:
@@ -491,8 +476,6 @@ C:/msys64/mingw64/include/corecrt_startup.h:
 C:/msys64/mingw64/include/signal.h:
 
 C:/msys64/mingw64/include/pthread_signal.h:
-
-C:/msys64/mingw64/include/time.h:
 
 C:/msys64/mingw64/include/sec_api/sys/timeb_s.h:
 
@@ -569,10 +552,6 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/basic_string.h:
 C:/msys64/mingw64/include/c++/12.2.0/ext/alloc_traits.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/alloc_traits.h:
-
-C:/msys64/mingw64/include/c++/12.2.0/string_view:
-
-C:/msys64/mingw64/include/c++/12.2.0/bits/string_view.tcc:
 
 C:/msys64/mingw64/include/c++/12.2.0/ext/string_conversions.h:
 
@@ -662,11 +641,7 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/atomic_lockfree_defines.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/backward/auto_ptr.h:
 
-C:/msys64/mingw64/include/c++/12.2.0/pstl/execution_defs.h:
-
 C:/msys64/mingw64/include/c++/12.2.0/optional:
-
-C:/msys64/mingw64/include/c++/12.2.0/bits/enable_special_members.h:
 
 D:/Development/C++/LearningArea/src/Menu.cpp:
 
@@ -677,5 +652,3 @@ C:/msys64/mingw64/include/c++/12.2.0/bits/algorithmfwd.h:
 C:/msys64/mingw64/include/c++/12.2.0/bits/stl_heap.h:
 
 C:/msys64/mingw64/include/c++/12.2.0/bits/uniform_int_dist.h:
-
-C:/msys64/mingw64/include/c++/12.2.0/pstl/glue_algorithm_defs.h:

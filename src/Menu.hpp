@@ -21,7 +21,6 @@ class MenuNode{
 
         MenuNode(std::string NewName, std::initializer_list<MenuNodePtr> NewNodes);
         MenuNode(std::string NewName);
-        ~MenuNode();
 
         std::string GetName() const;
         void AddSuperNode(MenuNodePtr NewNode);

@@ -34,10 +34,6 @@ MenuNode::MenuNode(std::string NewName){
     SubMenus = {};
 };
 
-MenuNode::~MenuNode(){
-    std::cout << "Destructor for " << Name << " called\n";
-};
-
 std::string MenuNode::GetName() const {
     return Name;
 };

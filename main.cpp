@@ -1,6 +1,8 @@
 #include <iostream>
-#include "../src/Menu.hpp"
+#include "./src/Menu.hpp"
 
+
+//Example Script
 int main() {
     auto M = MenuNode::build("Main Menu",{
         MenuNode::build("Edit"),
@@ -11,6 +13,6 @@ int main() {
     });
 
     MenuManager Handler{M};
-    //Handler.StartMenu();
+    Handler.StartMenu();
 
 }
